@@ -1,0 +1,2 @@
+# Classifying-Employee-Churn-using-Decision-Tree-Classifier
+Task is to determine which factors keep employees at company and which prompt others to leave.Data has various data points on our employees,age, tenure, pay, job satisfaction, salary, working conditions, growth potential and employee’s perceptions of fairness. Some other variables such as age, gender, ethnicity, education, and marital status etc, but you are most interested in whether they’re still with the company or whether they’ve gone to work somewhere else.
